@@ -1,0 +1,136 @@
+{
+    "item_name": "Spawn Material Trader",
+    "title": "Oliver Hornbach",
+    "type": "plains",
+    "profession": "mason",
+    "offers": [
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "dirt", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "oak_log", "count": 16}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "birch_log", "count": 16}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "jungle_log", "count": 16}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "spruce_log", "count": 16}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "acacia_log", "count": 16}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "dark_oak_log", "count": 16}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "mangrove_log", "count": 16}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "cherry_log", "count": 16}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "cherry_sapling", "count": 16}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "stone", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "cobblestone", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 2},
+            "sell": {"id": "deepslate", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 2},
+            "sell": {"id": "cobbled_deepslate", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "granite", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "diorite", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "andesite", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 4},
+            "sell": {"id": "calcite", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 2},
+            "sell": {"id": "blackstone", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 2},
+            "sell": {"id": "quartz", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 2},
+            "sell": {"id": "terracotta", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "sand", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 1},
+            "sell": {"id": "gravel", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 2},
+            "sell": {"id": "glass", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 12},
+            "sell": {"id": "obsidian", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 4},
+            "sell": {"id": "white_wool", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 8},
+            "sell": {"id": "lantern", "count": 32}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 4},
+            "sell": {"id": "packed_mud", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 2},
+            "sell": {"id": "ice", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 8},
+            "sell": {"id": "packed_ice", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 8},
+            "sell": {"id": "prismarine_shard", "count": 64}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 8},
+            "sell": {"id": "prismarine_crystals", "count": 64}
+        }
+    ]
+}

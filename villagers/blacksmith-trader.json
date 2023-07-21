@@ -1,0 +1,60 @@
+{
+    "item_name": "Spawn Blacksmith Trader",
+    "title": "Andreas Schmidt",
+    "type": "plains",
+    "profession": "armorer",
+    "offers": [
+        {
+            "buy": {"id": "netherite_sword", "count": 1},
+            "sell": {"id": "netherite-sword-skin-1", "count": 1}
+        },
+        {
+            "buy": {"id": "netherite_sword", "count": 1},
+            "sell": {"id": "netherite-sword-skin-14", "count": 1}
+        },
+        {
+            "buy": {"id": "netherite_sword", "count": 1},
+            "sell": {"id": "netherite-sword-skin-3", "count": 1}
+        },
+        {
+            "buy": {"id": "netherite_sword", "count": 1},
+            "sell": {"id": "netherite-sword-skin-4", "count": 1}
+        },
+        {
+            "buy": {"id": "netherite_sword", "count": 1},
+            "sell": {"id": "netherite-sword-skin-5", "count": 1}
+        },
+        {
+            "buy": {"id": "netherite_sword", "count": 1},
+            "sell": {"id": "netherite-sword-skin-15", "count": 1}
+        },
+        {
+            "buy": {"id": "netherite_sword", "count": 1},
+            "sell": {"id": "netherite-sword-skin-6", "count": 1}
+        },
+        {
+            "buy": {"id": "netherite_sword", "count": 1},
+            "sell": {"id": "netherite-sword-skin-7", "count": 1}
+        },
+        {
+            "buy": {"id": "netherite_sword", "count": 1},
+            "sell": {"id": "netherite-sword-skin-8", "count": 1}
+        },
+        {
+            "buy": {"id": "netherite_sword", "count": 1},
+            "sell": {"id": "netherite-sword-skin-12", "count": 1}
+        },
+        {
+            "buy": {"id": "netherite_sword", "count": 1},
+            "sell": {"id": "netherite-sword-skin-13", "count": 1}
+        },
+        {
+            "buy": {"id": "netherite_sword", "count": 1},
+            "sell": {"id": "netherite-sword-skin-11", "count": 1}
+        },
+        {
+            "buy": {"id": "netherite_sword", "count": 1},
+            "sell": {"id": "netherite_sword", "count": 1}
+        }
+    ]
+}

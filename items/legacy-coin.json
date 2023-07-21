@@ -1,0 +1,8 @@
+{
+    "item": "glowstone_dust",
+    "title": {"text": "Coin", "bold": false, "italic": false},
+    "description": [{"text": "Used as a currency for buying at the market.", "bold": false, "italic": false}],
+    "tags": [
+        {"key": "CustomModelData", "value": 1}
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "item": "netherite_sword",
+    "title": {"text": "Draconic Sword", "bold": false, "italic": false},
+    "description": [{"text": "This ancient relic has already lost most of its power...", "bold": false, "italic": false}],
+    "tags": [
+        {"key": "CustomModelData", "value": 1}
+    ]
+}

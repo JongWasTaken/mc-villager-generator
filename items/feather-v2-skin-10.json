@@ -1,0 +1,9 @@
+{
+    "item": "feather",
+    "title": {"text": "Mystical Feather of Levitation", "bold": false, "italic": false},
+    "description": [{"text": "Holding this item in your offhand will grant you creative flight.", "bold": false, "italic": false}, {"text": "Himeko Skin", "bold": true, "italic": false}],
+    "tags": [
+        {"key": "EnableFlight", "value": 1},
+        {"key": "CustomModelData", "value": 10}
+    ]
+}

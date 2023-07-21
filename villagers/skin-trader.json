@@ -1,0 +1,132 @@
+{
+    "item_name": "Spawn Skin Trader",
+    "title": "Rawhide Kobayashi",
+    "type": "plains",
+    "profession": "weaponsmith",
+    "offers": [
+        {
+            "buy": {"id": "feather-v1", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-1", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-1", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-2", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-3", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-3", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-4", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-4", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-5", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-5", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-6", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-6", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-7", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-7", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-8", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-8", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-9", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-9", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-10", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-10", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-11", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-11", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-12", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-12", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-13", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-13", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-14", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-14", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "feather-v2-skin-15", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2-skin-15", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        }
+    ]
+}

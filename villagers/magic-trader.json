@@ -1,0 +1,26 @@
+{
+    "item_name": "Spawn Magic Trader",
+    "title": "Shadow Wizard $$$",
+    "type": "plains",
+    "profession": "cleric",
+    "offers": [
+        {
+            "buy": {"id": "elytra", "count": 1},
+            "buyB": {"id": "creative-essence", "count": 1},
+            "sell": {"id": "feather-v2", "count": 1}
+        },
+        {
+            "buy": {"id": "nether_star", "count": 1},
+            "buyB": {"id": "netherite_block", "count": 1},
+            "sell": {"id": "creative-essence", "count": 1}
+        },
+        {
+            "buy": {"id": "gold-coin", "count": 64},
+            "sell": {"id": "creative-essence", "count": 1}
+        },
+        {
+            "buy": {"id": "gold-coin", "count": 32},
+            "sell": {"id": "debug-stick", "count": 1}
+        }
+    ]
+}

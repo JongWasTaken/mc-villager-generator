@@ -1,0 +1,48 @@
+{
+    "item_name": "Spawn Money Trader",
+    "title": "Wechselstube",
+    "type": "plains",
+    "profession": "librarian",
+    "offers": [
+        {
+            "buy": {"id": "diamond", "count": 1},
+            "sell": {"id": "bronze-coin", "count": 16}
+        },
+        {
+            "buy": {"id": "gold_ingot", "count": 1},
+            "sell": {"id": "bronze-coin", "count": 4}
+        },
+        {
+            "buy": {"id": "iron_ingot", "count": 1},
+            "sell": {"id": "bronze-coin", "count": 1}
+        },
+        {
+            "buy": {"id": "netherite_ingot", "count": 1},
+            "sell": {"id": "gold-coin", "count": 7}
+        },
+        {
+            "buy": {"id": "copper_ingot", "count": 4},
+            "sell": {"id": "iron_ingot", "count": 1}
+        },
+        {
+            "buy": {"id": "legacy-coin", "count": 1},
+            "sell": {"id": "bronze-coin", "count": 1}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 9},
+            "sell": {"id": "silver-coin", "count": 1}
+        },
+        {
+            "buy": {"id": "silver-coin", "count": 9},
+            "sell": {"id": "gold-coin", "count": 1}
+        },
+        {
+            "buy": {"id": "gold-coin", "count": 1},
+            "sell": {"id": "silver-coin", "count": 9}
+        },
+        {
+            "buy": {"id": "silver-coin", "count": 1},
+            "sell": {"id": "bronze-coin", "count": 9}
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "item": "nether_star",
+    "title": {"text": "Creative Essence", "bold": false, "italic": false},
+    "description": [{"text": "Required for the Mystical Feather of Levitation.", "bold": false, "italic": false}],
+    "tags": [
+        {"key": "Enchantments", "value": [{"name":"unbreaking", "level":3}]},
+        {"key": "CustomModelData", "value": 1}
+    ]
+}

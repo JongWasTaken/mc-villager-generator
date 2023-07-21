@@ -1,0 +1,8 @@
+{
+    "item": "netherite_sword",
+    "title": {"text": "Netherite Naginata", "bold": false, "italic": false},
+    "description": [],
+    "tags": [
+        {"key": "CustomModelData", "value": 6}
+    ]
+}

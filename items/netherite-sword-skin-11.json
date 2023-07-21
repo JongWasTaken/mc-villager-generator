@@ -1,0 +1,8 @@
+{
+    "item": "netherite_sword",
+    "title": {"text": "Excalibur Replica", "bold": false, "italic": false},
+    "description": [{"text": "The whereabouts of the original remain unknown...", "bold": false, "italic": false}],
+    "tags": [
+        {"key": "CustomModelData", "value": 11}
+    ]
+}

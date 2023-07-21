@@ -1,0 +1,8 @@
+{
+    "item": "debug_stick",
+    "title": {"text": "Wand of Modification", "bold": false, "italic": false},
+    "description": [{"text": "An almighty wand with the power to alter reality.", "bold": false, "italic": false}],
+    "tags": [
+        {"key": "CustomModelData", "value": 1}
+    ]
+}

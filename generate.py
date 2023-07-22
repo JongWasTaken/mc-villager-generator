@@ -75,11 +75,11 @@ def generate_villager(filename):
     command = "/give @p wandering_trader_spawn_egg{EntityTag:{id:villager,VillagerData:"
     command += "{type:"+ villager["type"] +",profession:"+ villager["profession"] +",level:99},Offers:{Recipes:["
     for offer in villager["offers"]:
-        command += "{"
+        command += "{" + "maxUses:9999999,priceMultiplier:0,specialPrice:0,rewardExp:false,"
         command += "buy:" + generate_item(offer["buy"]) + ","
         if "buyB" in offer:
             command += "buyB:" + generate_item(offer["buyB"]) + ","
-        command += "sell:" + generate_item(offer["sell"]) + ",rewardExp:false"
+        command += "sell:" + generate_item(offer["sell"])
         command += "},"
     command = command[:-1]
     command += "]},CustomName:'[{\"text\":\""+ villager["title"] +"\"}]',"

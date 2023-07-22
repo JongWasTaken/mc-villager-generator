@@ -1,6 +1,6 @@
 {
-    "item_name": "Spawn Blacksmith Trader",
-    "title": "Andreas Schmidt",
+    "item_name": {"text": "Spawn Blacksmith Trader", "bold": false, "italic": false},
+    "title": {"text": "Andreas Schmidt", "bold": false, "italic": false},
     "type": "plains",
     "profession": "armorer",
     "offers": [

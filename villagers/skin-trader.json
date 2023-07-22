@@ -1,6 +1,6 @@
 {
-    "item_name": "Spawn Skin Trader",
-    "title": "Rawhide Kobayashi",
+    "item_name": {"text": "Spawn Skin Trader", "bold": false, "italic": false},
+    "title": {"text": "Rawhide Kobayashi", "bold": false, "italic": false},
     "type": "plains",
     "profession": "weaponsmith",
     "offers": [

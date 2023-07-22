@@ -1,6 +1,6 @@
 {
-    "item_name": "Spawn Material Trader",
-    "title": "Oliver Hornbach",
+    "item_name": {"text": "Spawn Material Trader", "bold": false, "italic": false},
+    "title": {"text": "Oliver Hornbach", "bold": false, "italic": false},
     "type": "plains",
     "profession": "mason",
     "offers": [

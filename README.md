@@ -3,14 +3,16 @@ What a mouthful...
 
 ## Usage
 #### Items
-Make custom items by creating json files in the `items/` directory.  
+Define custom items by creating json files in the `items/` directory.  
 Use `feather-v2.json` as a reference.  
 #### Villagers
-Make custom villagers by creating json files in the `villagers/` directory.  
+Define custom villagers by creating json files in the `villagers/` directory.  
 Use `magic-trader.json` as a reference.  
-#### Generate
-Run `python generate.py <VILLAGER_FILE_NAME_WITHOUT_DOT_JSON>` in a terminal.  
-Alternatively you may omit the villager file name, in which case all villagers get generated.
+#### Generate Villager Spawn Egg
+Run `python generate.py villager <VILLAGER_FILE_NAME_WITHOUT_DOT_JSON>` in a terminal.  
+Alternatively you may omit the arguments, in which case all villagers get generated.
+#### Generate Give Command For Custom Item
+Run `python generate.py item <ITEM_FILE_NAME_WITHOUT_DOT_JSON>` in a terminal.  
 
 ## License
 Licensed under the MIT License.

@@ -1,10 +1,23 @@
 {
-    "item_name": "Spawn Magic Trader",
-    "title": "Shadow Wizard $$$",
+    "item_name": {"text": "Spawn Magic Trader", "bold": false, "italic": false},
+    "title": {"text": "Shadow Wizard $$$", "bold": false, "italic": false},
     "type": "plains",
     "profession": "cleric",
+    "showcustomname": true,
+    "invulnerable": true,
+    "noai": true,
+    "onground": true,
+    "silent": true,
+    "persistant": true,
     "offers": [
         {
+            "uses": 0,
+            "maxuses": 9999999,
+            "xp": 0,
+            "givexp": false,
+            "multiplier": 0,
+            "specialprice": 0,
+            "demand": 0,
             "buy": {"id": "elytra", "count": 1},
             "buyB": {"id": "creative-essence", "count": 1},
             "sell": {"id": "feather-v2", "count": 1}

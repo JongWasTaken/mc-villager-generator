@@ -1,6 +1,6 @@
 {
-    "item_name": "Spawn Money Trader",
-    "title": "Wechselstube",
+    "item_name": {"text": "Spawn Money Trader", "bold": false, "italic": false},
+    "title": {"text": "Wechselstube", "bold": false, "italic": false},
     "type": "plains",
     "profession": "librarian",
     "offers": [

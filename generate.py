@@ -61,6 +61,10 @@ def generate_item(tag, giveFormat = False):
             itemString += resolve_text(text) + ","
         itemString = itemString[:-1]
         itemString += "]"
+
+    if "color" in item:
+        itemString += ",color:" + str(int(item["color"], 16))
+
     itemString += "}," # close display tag
     for nbt in item["tags"]:
         if type(nbt["value"]) == type(1):
@@ -150,8 +154,8 @@ def generate_villager(filename):
         command += "Silent:"+ resolve_byte(villager["silent"]) +","
     else:
         command += "Silent:1b,"
-    if "persistant" in villager:
-        command += "PersistenceRequired:"+ resolve_byte(villager["persistant"]) +","
+    if "persistent" in villager:
+        command += "PersistenceRequired:"+ resolve_byte(villager["persistent"]) +","
     else:
         command += "PersistenceRequired:1b,"
     command = command[:-1]

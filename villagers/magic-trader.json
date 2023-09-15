@@ -8,7 +8,7 @@
     "noai": true,
     "onground": true,
     "silent": true,
-    "persistant": true,
+    "persistent": true,
     "offers": [
         {
             "uses": 0,
@@ -30,6 +30,16 @@
         {
             "buy": {"id": "gold-coin", "count": 64},
             "sell": {"id": "creative-essence", "count": 1}
+        },
+        {
+            "buy": {"id": "feather-v2", "count": 1},
+            "buyB": {"id": "feather-v2", "count": 1},
+            "sell": {"id": "angelic-wings", "count": 1}
+        },
+        {
+            "buy": {"id": "angelic-wings", "count": 1},
+            "buyB": {"id": "player_head", "count": 1},
+            "sell": {"id": "angelic-halo", "count": 1}
         },
         {
             "buy": {"id": "gold-coin", "count": 32},

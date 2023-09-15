@@ -52,6 +52,10 @@
             "buy": {"id": "netherite_sword", "count": 1},
             "sell": {"id": "netherite-sword-skin-11", "count": 1}
         },
+        { 
+            "buy": {"id": "netherite_sword", "count": 1},
+            "sell": {"id": "netherite-sword-skin-16", "count": 1}
+        },
         {
             "buy": {"id": "netherite_sword", "count": 1},
             "sell": {"id": "netherite_sword", "count": 1}

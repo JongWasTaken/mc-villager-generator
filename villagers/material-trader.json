@@ -52,6 +52,10 @@
             "buy": {"id": "bronze-coin", "count": 1},
             "sell": {"id": "cobblestone", "count": 64}
         },
+        { 
+            "buy": {"id": "bronze-coin", "count": 4},
+            "sell": {"id": "smooth_stone", "count": 64}
+        },
         {
             "buy": {"id": "bronze-coin", "count": 2},
             "sell": {"id": "deepslate", "count": 64}
@@ -104,6 +108,10 @@
             "buy": {"id": "bronze-coin", "count": 12},
             "sell": {"id": "obsidian", "count": 64}
         },
+        { 
+            "buy": {"id": "bronze-coin", "count": 4},
+            "sell": {"id": "basalt", "count": 64}
+        },
         {
             "buy": {"id": "bronze-coin", "count": 4},
             "sell": {"id": "white_wool", "count": 64}
@@ -111,6 +119,10 @@
         {
             "buy": {"id": "bronze-coin", "count": 8},
             "sell": {"id": "lantern", "count": 32}
+        },
+        {
+            "buy": {"id": "bronze-coin", "count": 2},
+            "sell": {"id": "torch", "count": 32}
         },
         {
             "buy": {"id": "bronze-coin", "count": 4},

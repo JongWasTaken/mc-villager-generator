@@ -76,6 +76,10 @@
             "buy": {"id": "bronze-coin", "count": 1},
             "sell": {"id": "andesite", "count": 64}
         },
+        { 
+            "buy": {"id": "bronze-coin", "count": 2},
+            "sell": {"id": "tuff", "count": 64}
+        },
         {
             "buy": {"id": "bronze-coin", "count": 4},
             "sell": {"id": "calcite", "count": 64}

@@ -39,11 +39,15 @@
         {
             "buy": {"id": "angelic-wings", "count": 1},
             "buyB": {"id": "player_head", "count": 1},
-            "sell": {"id": "angelic-halo", "count": 1}
+            "sell": {"id": "angelic-halo-v2", "count": 1}
         },
         {
             "buy": {"id": "gold-coin", "count": 32},
             "sell": {"id": "debug-stick", "count": 1}
+        },
+        { 
+            "buy": {"id": "angelic-halo", "count": 1},
+            "sell": {"id": "angelic-halo-v2", "count": 1}
         }
     ]
 }
